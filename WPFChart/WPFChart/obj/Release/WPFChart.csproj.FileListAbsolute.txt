@@ -1,0 +1,11 @@
+G:\WPFChart\WPFChart\bin\Release\WPFChart.exe
+G:\WPFChart\WPFChart\bin\Release\WPFChart.pdb
+G:\WPFChart\WPFChart\obj\Release\Window1.baml
+G:\WPFChart\WPFChart\obj\Release\Window1.g.cs
+G:\WPFChart\WPFChart\obj\Release\App.g.cs
+G:\WPFChart\WPFChart\obj\Release\WPFChart_MarkupCompile.cache
+G:\WPFChart\WPFChart\obj\Release\WPFChart.g.resources
+G:\WPFChart\WPFChart\obj\Release\WPFChart.Properties.Resources.resources
+G:\WPFChart\WPFChart\obj\Release\WPFChart.csproj.GenerateResource.Cache
+G:\WPFChart\WPFChart\obj\Release\WPFChart.exe
+G:\WPFChart\WPFChart\obj\Release\WPFChart.pdb
